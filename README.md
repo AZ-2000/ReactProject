@@ -9,6 +9,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
  Dependencies used were Bootstrap 4, Node 21.1.0 , tsparticles, react-router-dom.
  The images that were used were taken from the internet.
 
+ Only clicking on the linkedin icon in the contact-me form leads to an external site as it is the only social media account I 
+ found proper to link here.
  ## DO NOT
 import older versions of react-particles-js as it does not work with newer versions of react and causes problems for the navigation side of things by clashing with react-router-dom.
 

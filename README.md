@@ -3,7 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Information about the project
- To run the project you will have to install Visual Studio Code and create a react application through npx create-react-app.  
+ To run the project you will have to install Visual Studio Code and run the application by uploading the folder on vsCode, make 
+ sure you have NodeJS installed and  go to the Terminal. Type npm start and the project should run.
  The project will only run on React version 18.2.3 or higher.
  Dependencies used were Bootstrap 4, Node 21.1.0 , tsparticles, react-router-dom.
  The images that were used were taken from the internet.
